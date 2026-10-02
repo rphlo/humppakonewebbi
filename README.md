@@ -1,3 +1,3 @@
-# HumppakoneWeb
+# HumppakoneWebbi
 
-2022 rewrite of the frontend for the music streaming backend "nickelodeon-backend"
+Music streaming web app consuming Hummppakone.com API
